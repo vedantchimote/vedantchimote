@@ -13,7 +13,7 @@
 
 #### Backend/Server:
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jsp.png?raw=true" height="35"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jsp.png?raw=true" height="35"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/output-onlinepngtools.png?raw=true" height="35"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/Spring%20Framework.png?raw=true" height="35"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20mvc.png?raw=true" height="35"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/output-onlinepngtools.png?raw=true" height="35"></code>
@@ -24,12 +24,14 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/server/tomcat.png?raw=true" height="35"></code>
 
 #### •Frontend/UI:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/bt.jpg" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/thymeleaf.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/angular.jpg" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/HTML.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/CSS.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/BootStrap.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/thymeleaf.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/J.Query.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/ReactJS.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/Angular.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/ajax.png?raw=true" height="40"></code>
 
 #### •Database:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="40"></code>
