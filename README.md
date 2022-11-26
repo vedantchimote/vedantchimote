@@ -25,6 +25,13 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java%20swing.png?raw=true" height="35"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/server/tomcat.png?raw=true" height="35"></code>
 
+#### •Micro-Services:
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rx.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/webflux.jpg" height="30"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/kafka.png?raw=true"" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/graphql.png" height="30"></code>
+
 #### •Frontend/UI:
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/HTML.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/CSS.png?raw=true" height="40"></code>
@@ -48,7 +55,6 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/gradle.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/Git%20(2).png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/github2.png?raw=true" height="40"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/kafka.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/Docker.png?raw=true" height="40"></code>
 
 
