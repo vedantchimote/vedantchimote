@@ -5,6 +5,8 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/java.png" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/Dart.png?raw=true" height="40"></code>
+
 
 ### Web Development (Full-stack):
 
