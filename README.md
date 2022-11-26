@@ -34,16 +34,20 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/ajax.png?raw=true" height="40"></code>
 
 #### •Database:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/oracle.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/My.SQL.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/Postgre.SQL.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/oracleDB.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/MongoDB.png?raw=true" height="40"></code>
+
 
 ### Cloud/Dev-Ops:
 
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/maven.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/docker.png" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/maven.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/gradle.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/Git%20(2).png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/github2.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/kafka.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/Docker.png?raw=true" height="40"></code>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote) -->
