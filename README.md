@@ -9,7 +9,7 @@
 ### Web Development (Full-stack):
 
 #### Backend/Server:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/j2ee.png" height="35"></code>
+<code><img src="https://raw.githubusercontent.com/vedantchimote/EmployeeCrud/master/src/main/resources/achives/language/C%20Language.png" height="35"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png" height="35"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/servlet.png" height="35"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-1.png" height="35"></code>
