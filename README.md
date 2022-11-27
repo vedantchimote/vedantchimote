@@ -3,7 +3,7 @@
 
 ## Skilled & Interested in:
 
-### Languages:
+### • Languages:
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/C%20Language.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/CSharp.png?raw=true" height="40"></code>
@@ -14,7 +14,7 @@
 
 ## Web Development (Full-stack):
 
-### Backend/Server:
+### • Backend/Server:
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jsp.png?raw=true" height="35"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/output-onlinepngtools.png?raw=true" height="35"></code>
@@ -27,7 +27,7 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java%20swing.png?raw=true" height="35"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/server/tomcat.png?raw=true" height="35"></code>
 
-### •Micro-Services:
+### • Micro-Services:
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/soap.png?raw=true" height="30"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/rest.png?raw=true" height="30"></code>
@@ -35,7 +35,7 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/kafka.png?raw=true" height="30"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/graphql.png?raw=true" height="30"></code>
 
-### •Frontend/UI:
+### • Frontend/UI:
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/HTML.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/CSS.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/BootStrap.png?raw=true" height="40"></code>
@@ -45,7 +45,7 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/Angular.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/ajax.png?raw=true" height="40"></code>
 
-### •Database:
+### • Database:
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/My.SQL.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/Postgre.SQL.png?raw=true" height="40"></code>
@@ -53,7 +53,7 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/MongoDB.png?raw=true" height="40"></code>
 
 
-### Cloud/Dev-Ops:
+### • Cloud/Dev-Ops:
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/maven.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/gradle.png?raw=true" height="40"></code>
@@ -61,7 +61,7 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/github2.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/Docker.png?raw=true" height="40"></code>
 
-### Others:
+### • Others:
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/Postman.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/plantuml.png?raw=true" height="40"></code>
