@@ -25,7 +25,7 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20security.png?raw=true" height="45"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jwt.png?raw=true" height="45"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java%20swing.png?raw=true" height="45"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/server/tomcat.png?raw=true" height="45"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/server/tomcat.png?raw=true" height="55"></code>
 
 ### • Micro-Services:
 
