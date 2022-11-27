@@ -49,8 +49,8 @@
 ### • Database:
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/My.SQL.png?raw=true" height="40"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/Postgre.SQL.png?raw=true" height="40"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/oracleDB.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/Postgre.SQL.png?raw=true" height="50"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/oracleDB.png?raw=true" height="50"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/MongoDB.png?raw=true" height="40"></code>
 
 
@@ -64,8 +64,8 @@
 
 ### • Others:
 
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/Postman.png?raw=true" height="40"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/plantuml.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/Postman.png?raw=true" height="50"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/plantuml.png?raw=true" height="50"></code>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote) -->
