@@ -4,12 +4,12 @@
 ## Skilled & Interested in:
 
 ### • Languages:
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.png?raw=true" height="45"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/C%20Language.png?raw=true" height="45"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/CSharp.png?raw=true" height="45"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.script.png?raw=true" height="45"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/TypeScript.png?raw=true" height="45"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/python.png?raw=true" height="45"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/C%20Language.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/CSharp.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.script.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/TypeScript.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/python.png?raw=true" height="40"></code>
 
 
 ## Web Development (Full-stack):
@@ -18,13 +18,13 @@
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jsp.png?raw=true" height="45"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/output-onlinepngtools.png?raw=true" height="45"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/Spring%20Framework.png?raw=true" height="35"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20mvc.png?raw=true" height="35"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/output-onlinepngtools.png?raw=true" height="35"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/HIbernate.png?raw=true" height="35"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20security.png?raw=true" height="35"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jwt.png?raw=true" height="35"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java%20swing.png?raw=true" height="35"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/Spring%20Framework.png?raw=true" height="45"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20mvc.png?raw=true" height="45"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/output-onlinepngtools.png?raw=true" height="45"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/HIbernate.png?raw=true" height="45"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20security.png?raw=true" height="45"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jwt.png?raw=true" height="45"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java%20swing.png?raw=true" height="45"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/server/tomcat.png?raw=true" height="45"></code>
 
 ### • Micro-Services:
