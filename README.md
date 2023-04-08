@@ -22,8 +22,9 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20boot.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20security.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/HIbernate.png?raw=true" height="40"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java%20swing.png?raw=true" height="52"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/apache_tomcat.png?raw=true" height="52"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/springcloud.png" height="52"></code>
+<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java%20swing.png?raw=true" height="52"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java2ee.png?raw=true" height="50"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jwt.png?raw=true" height="30"></code>-->
 
