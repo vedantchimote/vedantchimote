@@ -4,8 +4,8 @@
 ## Skilled & Interested in:
 
 ### • Languages:
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.png?raw=true" height="35"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/TypeScript.png?raw=true" height="35"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/TypeScript.png?raw=true" height="40"></code>
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.script.png?raw=true" height="40"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/python.png?raw=true" height="40"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/C%20Language.png?raw=true" height="40"></code>-->
@@ -17,13 +17,13 @@
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jsp.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/output-onlinepngtools.png?raw=true" height="50"></code>
-<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/Spring%20Framework.png?raw=true" height="40"></code>-->
-<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20mvc.png?raw=true" height="40"></code>-->
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/springcloud.png" height="52"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20boot.png?raw=true" height="40"></code>
-<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20security.png?raw=true" height="40"></code>-->
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/HIbernate.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/apache_tomcat.png?raw=true" height="52"></code>
+<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/Spring%20Framework.png?raw=true" height="40"></code>-->
+<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20mvc.png?raw=true" height="40"></code>-->
+<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/spring%20security.png?raw=true" height="40"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java%20swing.png?raw=true" height="52"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/java2ee.png?raw=true" height="50"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/backend/jwt.png?raw=true" height="30"></code>-->
@@ -50,16 +50,15 @@
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/My.SQL.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/Postgre.SQL.png?raw=true" height="50"></code>
-<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/oracleDB.png?raw=true" height="45"></code> -->
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/MongoDB.png?raw=true" height="40"></code>
-
+<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/database/oracleDB.png?raw=true" height="45"></code> -->
 
 ### • Cloud/Dev-Ops:
 
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/maven.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/Docker.png?raw=true" height="45"></code>
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/gradle.png?raw=true" height="45"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/github2.png?raw=true" height="45"></code>-->
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/Docker.png?raw=true" height="45"></code>
 
 ### • Others:
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/Git%20(2).png?raw=true" height="40"></code>
