@@ -62,8 +62,8 @@
 
 ### • Others:
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/cloud%20devops/Git%20(2).png?raw=true" height="40"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/Postman.png?raw=true" height="50"></code>
-<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/plantuml.png?raw=true" height="57"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/Postman.png?raw=true" height="53"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/plantuml.png?raw=true" height="53"></code>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote)
@@ -80,7 +80,7 @@
 
 
 <h1>Overall profile stats</h1>
-![](https://github-readme-stats.vercel.app/api?username=vedantchimote&count_private=true&theme=merko&show_icons=true&hide=prs)
+(https://github-readme-stats.vercel.app/api?username=vedantchimote&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 
 <!--
