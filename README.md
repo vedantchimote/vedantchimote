@@ -65,23 +65,23 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/Postman.png?raw=true" height="53"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/plantuml.png?raw=true" height="57"></code>
 <br>
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote)
-
+-->
 
 <h1>Overall profile stats</h1>
    <div style="text-align:center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&langs_count=15&theme=tokyonight"/>
     </div>
 <p>
-    <img width=49% src="https://github-readme-stats.vercel.app/api?username=vedantchimote&show_icons=true&theme=tokyonight" />
-    <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=tokyonight" />
+    <img width=50% src="https://github-readme-stats.vercel.app/api?username=vedantchimote&show_icons=true&theme=tokyonight" />
+    <img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=tokyonight" />
 </p>
 
-
+<!--
 <h1>Overall profile stats</h1>
 <img src=https://github-readme-stats.vercel.app/api?username=vedantchimote&count_private=true&theme=merko&show_icons=true&hide=prs />
-
+-->
 
 <!--
 - 👋 Hi, I’m @vedantchimote
