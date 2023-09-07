@@ -74,7 +74,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&langs_count=15&theme=tokyonight"/>
     </div>
 <p>
-    <img width=45% src="https://github-readme-stats.vercel.app/api?username=vedantchimote&show_icons=true&theme=tokyonight" />
+    <img width=46% src="https://github-readme-stats.vercel.app/api?username=vedantchimote&show_icons=true&theme=tokyonight" />
     <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=tokyonight" />
 </p>
 
