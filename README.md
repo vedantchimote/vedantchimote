@@ -42,8 +42,8 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/BootStrap.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/J.Query.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/Angular.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/thymeleaf.png?raw=true" height="40"></code>
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/ajax.png?raw=true" height="40"></code>-->
-<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/thymeleaf.png?raw=true" height="40"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/frontend/ReactJS.png?raw=true" height="40"></code>-->
 
 ### • Database:
@@ -66,7 +66,7 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/plantuml.png?raw=true" height="57"></code>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote)
 <!--
 <h1>Overall profile stats</h1>
    <div style="text-align:center;">
