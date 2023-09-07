@@ -70,7 +70,7 @@
 -->
 
 <h1>Overall profile stats</h1>
-   <div style="text-align:center;">
+   <div style="display: flex; justify-content: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&langs_count=15&theme=tokyonight"/>
     </div>
 <p>
