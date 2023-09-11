@@ -68,7 +68,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote)
 -->
-
+<!--
 <h1>Overall profile stats</h1>
    <div style="display: flex; justify-content: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&langs_count=15&theme=tokyonight"/>
@@ -77,6 +77,7 @@
     <img width=46% src="https://github-readme-stats.vercel.app/api?username=vedantchimote&show_icons=true&theme=tokyonight" />
     <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=tokyonight" />
 </p>
+-->
 
 <!--
 <h1>Overall profile stats</h1>
