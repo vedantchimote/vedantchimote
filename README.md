@@ -80,7 +80,7 @@
 
 ###Watch snake eating my github contributions
 
-![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 <h1>Overall profile stats</h1>
