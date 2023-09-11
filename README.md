@@ -68,7 +68,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote)
 -->
-<!--
+
 <h1>Overall profile stats</h1>
    <div style="display: flex; justify-content: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&langs_count=15&theme=tokyonight"/>
@@ -76,8 +76,9 @@
 <p>
     <img width=46% src="https://github-readme-stats.vercel.app/api?username=vedantchimote&show_icons=true&theme=tokyonight" />
     <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=tokyonight" />
-</p> -->
-#Watch snake eating my github contributions
+</p> 
+
+###Watch snake eating my github contributions
 
 ![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.gif)
 
@@ -86,10 +87,4 @@
 <img src=https://github-readme-stats.vercel.app/api?username=vedantchimote&count_private=true&theme=merko&show_icons=true&hide=prs />
 -->
 
-<!--
-- 👋 Hi, I’m @vedantchimote
-- 👀 I’m interested in Java, Jsp&Servlets, Spring, Hibernate.
-- 🌱 I’m currently learning #JAVA ...
-- 📫 How to reach me ...
---->
 
