@@ -78,12 +78,11 @@
     <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=tokyonight" />
    <img width=49% src="https://readmestats.999857.xyz/?user=vedantchimote&theme=tokyonight" />
 </p> 
-
-# 📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=vedantchimote&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&count_public=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br></br>
+<br></br> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantchimote&theme=2077" width="100%" />
 
 <!-- <h1>Watch snake eating my github contributions</h1> -->
