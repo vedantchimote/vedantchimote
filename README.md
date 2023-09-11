@@ -69,13 +69,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote)
 -->
 
-<h1>Overall profile stats</h1>
+# 📊 GitHub Stats:
    <div style="display: flex; justify-content: center;">
       <img src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&langs_count=15&theme=tokyonight"/>
     </div>
 <p>
     <img width=49% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=tokyonight" />
     <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=tokyonight" />
+   <img width=49% src="https://readmestats.999857.xyz/?user=vedantchimote&theme=tokyonight" />
 </p> 
 
 # 📊 GitHub Stats:
