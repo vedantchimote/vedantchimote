@@ -78,7 +78,7 @@
     <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=tokyonight" />
 </p> -->
 
-![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 <h1>Overall profile stats</h1>
