@@ -84,12 +84,7 @@
 <br></br> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantchimote&theme=2077" width="100%" />  -->
 
-<!-- <h1>Watch snake eating my github contributions</h1> -->
 ![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-<h1>Overall profile stats</h1>
-<img src=https://github-readme-stats.vercel.app/api?username=vedantchimote&count_private=true&theme=merko&show_icons=true&hide=prs />
--->
 
 
