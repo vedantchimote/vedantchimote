@@ -72,14 +72,10 @@
 # 📊 GitHub Stats:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=80&section=header"/>
-
 <div align="center">  
   <img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&layout=compact&count_private=false&hide_border=true&title_color=99EDC3&text_color=9be8a9&bg_color=0d1117" />
 </div>
-
 <p>
-    <img width="100%" height="250px" src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&layout=compact&count_private=false&hide_border=true&title_color=99EDC3&text_color=9be8a9&bg_color=0d1117" />
-    <img width="100%" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&layout=compact&count_private=false&hide_border=true&title_color=99EDC3&text_color=9be8a9&bg_color=0d1117" />
     <img width=49% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
     <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham" />
 </p> 
