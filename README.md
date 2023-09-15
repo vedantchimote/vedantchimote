@@ -70,12 +70,12 @@
 -->
 
 # 📊 GitHub Stats:
-   <div style="display: flex; justify-content: center;">
-      <img src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&langs_count=15&theme=tokyonight"/>
+   <div align="center">
+      <img src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&langs_count=15&theme=gotham"/>
     </div>
 <p>
-    <img width=49% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=tokyonight" />
-    <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=tokyonight" />
+    <img width=49% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
+    <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham" />
 </p> 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=vedantchimote&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&count_public=true)<br/>
