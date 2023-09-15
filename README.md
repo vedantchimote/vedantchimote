@@ -72,10 +72,10 @@
 
 ![3D Profile](profile-3d-contrib/profile-night-green.svg)
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
-
+<!--
 <div align="center">  
   <img width="100%" height="300px" src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&count_private=true&hide_border=true&title_color=9be8a9&text_color=9be8a9&bg_color=0d1117" />
-</div>
+</div> -->
 <p>
     <img width=49.5% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
     <img width=49.5% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham" />
