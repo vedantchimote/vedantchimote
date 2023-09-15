@@ -73,19 +73,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=80&section=header"/>
 <div align="center">  
-  <img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&layout=compact&count_private=true&hide_border=true&title_color=9be8a9&text_color=9be8a9&bg_color=0d1117" />
+  <img width="100%" height="250px" src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&layout=compact&count_private=true&hide_border=true&title_color=9be8a9&text_color=9be8a9&bg_color=0d1117" />
 </div>
 <p>
-    <img width=49% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
-    <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham" />
+    <img width=49.8% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
+    <img width=49.8% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham" />
 </p> 
-
-<!--
-![](https://github-readme-stats.vercel.app/api?username=vedantchimote&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&count_public=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br></br> -->
-<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantchimote&theme=2077" width="100%" />  -->
 
 [![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantchimote&bg_color=0d1117&color=9be8a9&line=9be8a9&point=9be8a9&area=true&hide_border=true)](https://github.com/vedantchimote/github-readme-activity-graph)
 
