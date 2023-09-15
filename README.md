@@ -77,8 +77,8 @@
   <img width="100%" height="300px" src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&count_private=true&hide_border=true&title_color=9be8a9&text_color=9be8a9&bg_color=0d1117" />
 </div> -->
 <p>
-    <img width=49.5% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
-    <img width=49.5% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham" />
+    <img width=49.6% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
+    <img width=49.6% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham" />
 </p> 
 
 [![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantchimote&bg_color=0d1117&color=9be8a9&line=9be8a9&point=9be8a9&area=true&hide_border=true)](https://github.com/vedantchimote/github-readme-activity-graph)
