@@ -70,6 +70,9 @@
 -->
 
 # 📊 GitHub Stats:
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c92f4b&height=120&section=header"/>
+
    <div align="center">
       <img src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&langs_count=15&theme=gotham"/>
     </div>
@@ -77,6 +80,11 @@
     <img width=49% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
     <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham" />
 </p> 
+
+<div align="center">  
+<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rea4Dev&show_icons=true&count_private=true&hide_border=true&title_color=c92f4b&icon_color=c92f4b&text_color=c9d1d9&bg_color=0d1117" alt="Rea4Dev github stats" />  -->
+  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&layout=compact&count_private=false&hide_border=true&title_color=99EDC3&text_color=99EDC3&bg_color=0d1117" />
+</div>
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=vedantchimote&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&count_public=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=highcontrast&hide_border=false)<br/>
