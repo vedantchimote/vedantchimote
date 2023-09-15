@@ -71,7 +71,7 @@
 
 # 📊 GitHub Stats:
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c92f4b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=50&section=header"/>
 
    <div align="center">
       <img src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&langs_count=15&theme=gotham"/>
@@ -80,10 +80,8 @@
     <img width=49% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
     <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham" />
 </p> 
-
 <div align="center">  
-<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rea4Dev&show_icons=true&count_private=true&hide_border=true&title_color=c92f4b&icon_color=c92f4b&text_color=c9d1d9&bg_color=0d1117" alt="Rea4Dev github stats" />  -->
-  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&layout=compact&count_private=false&hide_border=true&title_color=99EDC3&text_color=99EDC3&bg_color=0d1117" />
+  <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote&layout=compact&count_private=false&hide_border=true&title_color=99EDC3&text_color=9be8a9&bg_color=0d1117" />
 </div>
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=vedantchimote&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&count_public=true)<br/>
@@ -92,9 +90,9 @@
 <br></br> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantchimote&theme=2077" width="100%" />  -->
 
-[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantchimote&bg_color=0d1117&color=99EDC3&line=99EDC3&point=99EDC3&area=true&hide_border=true)](https://github.com/vedantchimote/github-readme-activity-graph)
+[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantchimote&bg_color=0d1117&color=9be8a9&line=9be8a9&point=9be8a9&area=true&hide_border=true)](https://github.com/vedantchimote/github-readme-activity-graph)
 
 ![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=99EDC3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=50&section=footer"/>
 
