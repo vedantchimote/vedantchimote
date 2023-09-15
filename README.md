@@ -71,7 +71,7 @@
 
 # 📊 GitHub Stats:
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=50&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=80&section=header"/>
 
    <div align="center">
       <img src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&langs_count=15&theme=gotham"/>
@@ -94,5 +94,5 @@
 
 ![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=50&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=80&section=footer"/>
 
