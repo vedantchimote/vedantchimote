@@ -84,7 +84,7 @@
 <br></br> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantchimote&theme=2077" width="100%" />  -->
 
-[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantchimote&bg_color=0d1117&color=99EDC3&line=c92f4b&point=c92f4b&area=true&hide_border=true)](https://github.com/vedantchimote/github-readme-activity-graph)
+[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantchimote&bg_color=99EDC3&color=99EDC3&line=99EDC3&point=c92f4b&area=true&hide_border=true)](https://github.com/vedantchimote/github-readme-activity-graph)
 
 ![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.svg)
 
