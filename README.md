@@ -65,15 +65,12 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/Postman.png?raw=true" height="53"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/plantuml.png?raw=true" height="57"></code>
 <br>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchimote)](https://github.com/vedantchimote)
--->
 
 # 📊 GitHub Stats:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=80&section=header"/>
 <div align="center">  
-  <img width="100%" height="250px" src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&layout=compact&count_private=true&hide_border=true&title_color=9be8a9&text_color=9be8a9&bg_color=0d1117" />
+  <img width="100%" height="300px" src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&count_private=true&hide_border=true&title_color=9be8a9&text_color=9be8a9&bg_color=0d1117" />
 </div>
 <p>
     <img width=49.5% src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham" />
