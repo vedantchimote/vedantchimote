@@ -1,5 +1,5 @@
 # Hey There :wave:, Welcome to my GitHub 👨‍💻
-<!-- ![](https://komarev.com/ghpvc/?username=vedantchimote) -->
+![](https://komarev.com/ghpvc/?username=vedantchimote&style=for-the-badge&color=brightgreen)
 
 ## Skilled & Interested in:
 
