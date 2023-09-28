@@ -71,7 +71,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=80&section=header"/>
 
 ![3D Profile](profile-3d-contrib/profile-night-green.svg)
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) --->
 <!--
 <div align="center">  
   <img width="100%" height="300px" src="https://readmestats.999857.xyz/api/top-langs/?username=vedantchimote&count_private=true&hide_border=true&title_color=9be8a9&text_color=9be8a9&bg_color=0d1117" />
