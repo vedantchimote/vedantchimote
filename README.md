@@ -5,11 +5,11 @@
 
 ### • Languages:
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.png?raw=true" height="40"></code>
+<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/CSharp.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/TypeScript.png?raw=true" height="40"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/java.script.png?raw=true" height="40"></code>
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/python.png?raw=true" height="40"></code>-->
 <!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/C%20Language.png?raw=true" height="40"></code>-->
-<!--<code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/language/CSharp.png?raw=true" height="40"></code>-->
 
 ## Web Development (Full-stack):
 
