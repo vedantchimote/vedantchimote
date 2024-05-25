@@ -1,6 +1,6 @@
 # Hey There :wave:, Welcome to my GitHub Profile👨‍💻
 ![](https://komarev.com/ghpvc/?username=vedantchimote&style=for-the-badge&color=brightgreen)
-<img width="25%" src="https://wakatime.com/badge/user/7468211e-4fb5-451d-95a8-2d5d4f898776.svg" />
+<img width="30%" src="https://wakatime.com/badge/user/7468211e-4fb5-451d-95a8-2d5d4f898776.svg" />
 
 ## Skilled & Interested in:
 
