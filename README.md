@@ -3,6 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=vedantchimote&style=for-the-badge&color=brightgreen)
 <img width="30%" src="https://wakatime.com/badge/user/7468211e-4fb5-451d-95a8-2d5d4f898776.svg" />
 
+<a href="https://github.com/vedantchimote/vedantchimote">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantchimote/vedantchimote/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/vedantchimote/vedantchimote/main/light_mode.svg">
+  </picture>
+</a>
+
 ## Skilled & Interested in:
 
 ### • Languages:
@@ -76,13 +83,6 @@
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/Postman.png?raw=true" height="53"></code>
 <code><img src="https://github.com/vedantchimote/EmployeeCrud/blob/master/src/main/resources/achives/tools/plantuml.png?raw=true" height="57"></code>
 <br>
-
-<a href="https://github.com/vedantchimote/vedantchimote">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantchimote/vedantchimote/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/vedantchimote/vedantchimote/main/light_mode.svg">
-  </picture>
-</a>
 
 # 📊 GitHub Stats:
 
