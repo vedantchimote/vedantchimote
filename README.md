@@ -6,7 +6,7 @@
 <a href="https://github.com/vedantchimote/vedantchimote">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantchimote/vedantchimote/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/vedantchimote/vedantchimote/main/light_mode.svg">
+    <img alt="Vedant Chimote's GitHub Profile README" src="https://raw.githubusercontent.com/vedantchimote/vedantchimote/main/light_mode.svg">
   </picture>
 </a>
 
