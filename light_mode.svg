@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="17px" line-height="16px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="17px" line-height="16px">
 <style>
 .keyColor {fill: #3fb950;}
 .valueColor {fill: #9be8a9;}
@@ -43,7 +43,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="30">andrew@grant</tspan>
 <tspan x="370" y="50">——————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
-<tspan x="370" y="90" class="keyColor">22 years, 1 month, 28 days</tspan>: <tspan class="valueColor">22 years, 1 month, 28 days</tspan>
+<tspan x="370" y="90" class="keyColor">23 years, 8 months, 5 days</tspan>: <tspan class="valueColor">22 years, 1 month, 28 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Rochester Institute of Technology</tspan><tspan class="commentColor"> #RIT</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Electrical and Computer Engineering Technology</tspan><tspan class="commentColor"> #CPET</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA 2021.2.1, VSCode 1.64.0</tspan>
@@ -59,8 +59,8 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">andrew6rant</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">45</tspan>: <tspan class="valueColor">91</tspan> {<tspan class="keyColor">57</tspan>: <tspan class="valueColor">129</tspan>}  | <tspan class="keyColor">1,874  </tspan>: <tspan class="valueColor">2,039  </tspan>| <tspan class="keyColor">1</tspan>: <tspan class="valueColor">241</tspan>
-<tspan x="370" y="510" class="keyColor">10  </tspan>: <tspan class="valueColor">103 </tspan>| <tspan class="keyColor">3,336,322</tspan>: <tspan class="valueColor">3,345,738++</tspan> (<tspan class="addColor">9,416--</tspan>, <tspan class="delColor">73,099--</tspan>)
+<tspan x="370" y="490" class="keyColor">45</tspan>: <tspan class="valueColor">91</tspan> {<tspan class="keyColor">57</tspan>: <tspan class="valueColor">129</tspan>}  | <tspan class="keyColor">1,875  </tspan>: <tspan class="valueColor">2,039  </tspan>| <tspan class="keyColor">1</tspan>: <tspan class="valueColor">241</tspan>
+<tspan x="370" y="510" class="keyColor">10  </tspan>: <tspan class="valueColor">103 </tspan>| <tspan class="keyColor">3,336,260</tspan>: <tspan class="valueColor">3,345,758++</tspan> (<tspan class="addColor">9,498--</tspan>, <tspan class="delColor">73,099--</tspan>)
 </text>
 
 </svg>
