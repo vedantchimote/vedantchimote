@@ -18,7 +18,7 @@
 <!--                   CONTACT / SOCIAL LINKS                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9be8a9"/></a>&nbsp;&nbsp;
+<a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>&nbsp;&nbsp;
 <a href="https://vedantchimote.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=9be8a9"/></a>&nbsp;&nbsp;
 <a href="mailto:vedantchimote3301@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=9be8a9"/></a>
 
