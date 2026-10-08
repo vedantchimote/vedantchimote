@@ -204,6 +204,28 @@ currently:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
 
+## vedant@infra:~$ watch -n 1 'kubectl get pipelines'
+
+<div align="center">
+
+<a href="https://github.com/vedantchimote/DevPlatform-CLI/actions"><img src="https://img.shields.io/github/actions/workflow/status/vedantchimote/DevPlatform-CLI/test.yml?style=flat-square&logo=githubactions&logoColor=9be8a9&label=DevPlatform-CLI%20Tests&labelColor=0d1117&color=1a472a"/></a>
+<a href="https://github.com/vedantchimote/InfraGuard/actions"><img src="https://img.shields.io/github/actions/workflow/status/vedantchimote/InfraGuard/ci.yml?style=flat-square&logo=githubactions&logoColor=9be8a9&label=InfraGuard%20CI&labelColor=0d1117&color=1a472a"/></a>
+<a href="https://github.com/vedantchimote/Cloudforge/actions"><img src="https://img.shields.io/github/actions/workflow/status/vedantchimote/Cloudforge/backend.yml?style=flat-square&logo=githubactions&logoColor=9be8a9&label=Cloudforge%20Backend&labelColor=0d1117&color=1a472a"/></a>
+<a href="https://github.com/vedantchimote/VMLedger/actions"><img src="https://img.shields.io/github/actions/workflow/status/vedantchimote/VMLedger/testsprite.yml?style=flat-square&logo=githubactions&logoColor=9be8a9&label=VMLedger%20Build&labelColor=0d1117&color=1a472a"/></a>
+
+<br/>
+
+<a href="https://github.com/vedantchimote/DevPlatform-CLI/releases"><img src="https://img.shields.io/github/v/release/vedantchimote/DevPlatform-CLI?style=flat-square&logo=github&logoColor=9be8a9&label=Latest%20Release&labelColor=0d1117&color=1a472a"/></a>
+<a href="https://github.com/vedantchimote/InfraGuard/issues"><img src="https://img.shields.io/github/issues/vedantchimote/InfraGuard?style=flat-square&logo=github&logoColor=9be8a9&label=InfraGuard%20Issues&labelColor=0d1117&color=1a472a"/></a>
+<a href="https://github.com/vedantchimote/Cloudforge/commits/main"><img src="https://img.shields.io/github/last-commit/vedantchimote/Cloudforge?style=flat-square&logo=git&logoColor=9be8a9&label=Cloudforge%20Commits&labelColor=0d1117&color=1a472a"/></a>
+<a href="https://github.com/vedantchimote/VMLedger/pulls"><img src="https://img.shields.io/github/issues-pr/vedantchimote/VMLedger?style=flat-square&logo=github&logoColor=9be8a9&label=VMLedger%20PRs&labelColor=0d1117&color=1a472a"/></a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
+
 ## vedant@infra:~$ htop --metrics
 
 <div align="center">
