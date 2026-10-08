@@ -1,33 +1,28 @@
-﻿<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║          VEDANT CHIMOTE — GITHUB PROFILE README             ║ -->
-<!-- ║          Theme: Terminal Green (#9be8a9) on Dark (#0d1117)  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
+<!-- Animated gradient header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a472a,100:9be8a9&height=150&section=header&text=&fontSize=0"/>
 
 <div align="center">
 
-<!-- Animated typing — JetBrains Mono, green on dark, terminal feel -->
+<!-- Animated typing intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=9BE8A9&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=45&lines=vedant%40infra+%24+whoami)](https://git.io/typing-svg)
 
 <br/>
 
-`
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   Name       :  Vedant Chimote                                             ║
-║   Role       :  DevOps & Platform Engineer                                 ║
-║   Location   :  Pune, India                                                ║
-║   Experience :  2 years building production infrastructure                 ║
-║                                                                            ║
-║   Mission    :  Automate toil. Ship faster. Break less.                    ║
-║                                                                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-`
+```
++======================================================================+
+|                                                                      |
+|   Name       :  Vedant Chimote                                       |
+|   Role       :  DevOps & Platform Engineer                           |
+|   Location   :  Pune, India                                          |
+|   Experience :  2 years building production infrastructure           |
+|                                                                      |
+|   Mission    :  Automate toil. Ship faster. Break less.              |
+|                                                                      |
++======================================================================+
+```
 
 <br/>
 
-<!-- Contact badges — green accent, uniform style -->
 <a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/-%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9be8a9"/></a>
 <a href="https://vedantchimote.in"><img src="https://img.shields.io/badge/-%20Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=9be8a9"/></a>
 <a href="mailto:vedantchimote3301@gmail.com"><img src="https://img.shields.io/badge/-%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=9be8a9"/></a>
@@ -39,12 +34,11 @@
 
 </div>
 
-<!-- ━━━ SECTION DIVIDER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
 
-## edant@infra:~$ cat about_me.md
+## vedant@infra:~$ cat about_me.md
 
-`yaml
+```yaml
 current_status:
   role: "Project Engineer — DevOps & Platform Engineering"
   org: "Centre for Development of Advanced Computing (C-DAC, Pune)"
@@ -68,16 +62,14 @@ currently:
   building: "Go CLI to provision multi-cloud infra in 5 min"
   learning: "AWS Solutions Architect + Service Mesh"
   reading: "SRE Book by Google"
-`
+```
 
-<!-- ━━━ SECTION DIVIDER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
 
-## edant@infra:~$ ls -la ~/toolkit/
+## vedant@infra:~$ ls -la ~/toolkit/
 
 <div align="center">
 
-<!-- All badges use SAME style: dark bg + green text — no color chaos -->
 <table>
 <tr><td align="center" width="25%"><b>☁️ Cloud & Infra</b></td><td align="center" width="25%"><b>🔄 CI/CD & Security</b></td><td align="center" width="25%"><b>📊 Observability</b></td><td align="center" width="25%"><b>💻 Languages & Data</b></td></tr>
 <tr>
@@ -131,26 +123,24 @@ currently:
 
 </div>
 
-<!-- ━━━ SECTION DIVIDER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
 
-## edant@infra:~$ tree ~/projects/ --highlight
+## vedant@infra:~$ tree ~/projects/ --highlight
 
 <div align="center">
 
-`
+```
 ~/projects/
 ├── 🚀 DevPlatform-CLI ─── Go CLI · Multi-cloud IaC · 2 days → 5 min provisioning
 ├── 🛡️ InfraGuard ───────── AIOps · Predict failures 60 min early · Auto Jira tickets
 ├── ☁️ CloudForge ───────── 5 Microservices · ArgoCD GitOps · Azure AKS + Kafka
 └── 📡 VMLedger ─────────── Agentless VM monitoring · 60s health checks · Celery automation
-`
+```
 
 </div>
 
 <br/>
 
-<!-- Project cards — gotham theme, green borders, uniform -->
 <div align="center">
 
 <a href="https://github.com/vedantchimote/DevPlatform-CLI">
@@ -174,10 +164,10 @@ currently:
 <br/>
 
 <details>
-<summary><code>vedant@infra:~$ cat project_details.json</code></summary>
+<summary><b>📋 vedant@infra:~$ cat project_details.json</b></summary>
 <br/>
 
-`json
+```json
 [
   {
     "name": "DevPlatform CLI",
@@ -208,42 +198,33 @@ currently:
     "features": ["SSH-based metrics", "AES-256 encryption", "Slack/Discord alerting"]
   }
 ]
-`
+```
 
 </details>
 
-<!-- ━━━ SECTION DIVIDER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
 
-## edant@infra:~$ htop --metrics
+## vedant@infra:~$ htop --metrics
 
 <div align="center">
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=3"/>
 
 <p>
     <img width="47%" src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e&border_radius=8" />
     <img width="49.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham&hide_border=true&background=0d1117&ring=9be8a9&fire=9be8a9&currStreakLabel=9be8a9&sideLabels=9be8a9&dates=8b949e&border_radius=8" />
 </p>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vedantchimote&layout=compact&langs_count=20&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&text_color=8b949e&border_radius=8" />
-
 </div>
 
-<!-- 3D Contribution Graph -->
 ![3D Profile](profile-3d-contrib/profile-night-green.svg)
 
-<!-- Activity Graph — matches theme exactly -->
 [![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantchimote&bg_color=0d1117&color=9be8a9&line=9be8a9&point=9be8a9&area=true&hide_border=true&area_color=1a472a)](https://github.com/vedantchimote/github-readme-activity-graph)
 
-<!-- Snake animation -->
 ![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.svg)
 
-<!-- ━━━ SECTION DIVIDER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
 
 <details>
-<summary><code>vedant@infra:~$ wakatime --detailed</code></summary>
+<summary><b>⏱️ vedant@infra:~$ wakatime --detailed</b></summary>
 <br/>
 <div align="center">
 <img width="100%" src="https://wakatime.com/share/@vedantchimote/991531fd-43d2-4fdb-9f2b-f0576e2e91d1.svg" />
@@ -255,16 +236,16 @@ currently:
 
 <div align="center">
 
-`
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   "Automate the toil. Observe the system.            ║
-║    Ship with confidence. Sleep well at night."        ║
-║                                                      ║
-║                          — vedant@infra:~$            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-`
+```
++======================================================+
+|                                                      |
+|   "Automate the toil. Observe the system.            |
+|    Ship with confidence. Sleep well at night."        |
+|                                                      |
+|                          — vedant@infra:~$            |
+|                                                      |
++======================================================+
+```
 
 </div>
 
