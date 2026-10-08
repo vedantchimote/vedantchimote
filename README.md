@@ -18,7 +18,7 @@
 <!--                   CONTACT / SOCIAL LINKS                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>&nbsp;&nbsp;
+<a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=Linkedin&logoColor=9be8a9&logoSize=auto"/></a>&nbsp;&nbsp;
 <a href="https://vedantchimote.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=9be8a9"/></a>&nbsp;&nbsp;
 <a href="mailto:vedantchimote3301@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=9be8a9"/></a>
 
@@ -35,7 +35,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320"/>
 
 ### &nbsp; About Me
 
