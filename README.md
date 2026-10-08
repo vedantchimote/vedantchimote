@@ -100,50 +100,54 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
+<br/>
 <h3 align="center"><a href="https://github.com/vedantchimote/DevPlatform-CLI">DevPlatform CLI</a></h3>
 <p align="center"><b>Self-Service Internal Developer Platform</b></p>
-
+<br/>
 <p align="center">Go CLI provisioning multi-cloud infra (AWS/Azure) via <b>Terraform</b> + <b>Helm</b>. Environment setup: <b>2 days → 5 min</b> (99% faster).</p>
+<br/>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=go,terraform,aws,azure&theme=dark&perline=4" height="36"/>
 </p>
-
+<br/>
 </td>
 <td width="50%" valign="top">
-
+<br/>
 <h3 align="center"><a href="https://github.com/vedantchimote/InfraGuard">InfraGuard</a></h3>
 <p align="center"><b>AI-Powered Infrastructure Anomaly Detection</b></p>
-
+<br/>
 <p align="center">Predicts infrastructure failures <b>60 min in advance</b> using <b>Isolation Forest</b> + <b>Facebook Prophet</b>. Auto-creates <b>Jira</b> tickets with severity mapping.</p>
+<br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,kubernetes,grafana&theme=dark&perline=3" height="36"/>
+<img src="https://skillicons.dev/icons?i=python,kubernetes,grafana&theme=dark&perline=4" height="36"/>
 </p>
-
+<br/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
+<br/>
 <h3 align="center"><a href="https://github.com/vedantchimote/Cloudforge">CloudForge</a></h3>
 <p align="center"><b>Cloud-Native 5-Microservice E-Commerce Platform</b></p>
-
+<br/>
 <p align="center"><b>5 Spring Boot</b> microservices with <b>Kafka</b> event streaming, <b>ArgoCD</b> GitOps delivery on <b>Azure AKS</b>. Zero-downtime deployments with HPA + PDBs.</p>
+<br/>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,kafka,azure,kubernetes&theme=dark&perline=4" height="36"/>
 </p>
-
+<br/>
 </td>
 <td width="50%" valign="top">
-
+<br/>
 <h3 align="center"><a href="https://github.com/vedantchimote/VMLedger">VMLedger</a></h3>
 <p align="center"><b>Agentless CMDB & VM Observability Platform</b></p>
-
+<br/>
 <p align="center"><b>Python/FastAPI</b> platform monitoring VMs via SSH. <b>60s</b> fleet-wide health checks with <b>Redis</b> caching, <b>Celery</b> tasks, and <b>Slack/Discord</b> alerting.</p>
+<br/>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,redis,postgres,nextjs&theme=dark&perline=4" height="36"/>
 </p>
-
+<br/>
 </td>
 </tr>
 </table>
