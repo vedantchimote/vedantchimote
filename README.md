@@ -1,274 +1,197 @@
-<!-- Animated gradient header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a472a,100:9be8a9&height=150&section=header&text=&fontSize=0"/>
-
 <div align="center">
 
-<!-- Animated typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=9BE8A9&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=45&lines=vedant%40infra+%24+whoami)](https://git.io/typing-svg)
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              ANIMATED GRADIENT HEADER BANNER               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a472a,100:9be8a9&height=180&section=header&text=Vedant%20Chimote&fontSize=42&fontColor=9be8a9&animation=twinkling&fontAlignY=32&desc=DevOps%20%E2%80%A2%20Platform%20Engineer%20%E2%80%A2%20Cloud%20Native&descSize=16&descAlignY=52&descColor=8b949e"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED TYPING SVG                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=9BE8A9&center=true&vCenter=true&repeat=true&random=false&width=620&height=35&lines=%E2%9A%A1+Building+Infrastructure+That+Scales;%F0%9F%94%A7+Automating+Everything+That+Can+Be+Automated;%F0%9F%93%8A+Observing+What+Matters%2C+Alerting+What+Breaks;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Terraform+%7C+Go+%7C+CI%2FCD)](https://git.io/typing-svg)
 
 <br/>
 
-```
-+======================================================================+
-|                                                                      |
-|   Name       :  Vedant Chimote                                       |
-|   Role       :  DevOps & Platform Engineer                           |
-|   Location   :  Pune, India                                          |
-|   Experience :  2 years building production infrastructure           |
-|                                                                      |
-|   Mission    :  Automate toil. Ship faster. Break less.              |
-|                                                                      |
-+======================================================================+
-```
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CONTACT / SOCIAL LINKS                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
+<a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9be8a9"/></a>&nbsp;
+<a href="https://vedantchimote.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=9be8a9"/></a>&nbsp;
+<a href="mailto:vedantchimote3301@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=9be8a9"/></a>&nbsp;
+<a href="https://github.com/vedantchimote"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=9be8a9"/></a>
 
-<a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/-%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9be8a9"/></a>
-<a href="https://vedantchimote.in"><img src="https://img.shields.io/badge/-%20Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=9be8a9"/></a>
-<a href="mailto:vedantchimote3301@gmail.com"><img src="https://img.shields.io/badge/-%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=9be8a9"/></a>
-<a href="https://github.com/vedantchimote"><img src="https://img.shields.io/badge/-%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=9be8a9"/></a>
+<br/><br/>
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=vedantchimote&style=flat-square&color=9be8a9&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=vedantchimote&style=flat-square&color=9be8a9&label=Profile+Views)&nbsp;&nbsp;
+<img src="https://wakatime.com/badge/user/7468211e-4fb5-451d-95a8-2d5d4f898776.svg?style=flat-square" alt="Wakatime" height="20"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## vedant@infra:~$ cat about_me.md
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```yaml
-current_status:
-  role: "Project Engineer — DevOps & Platform Engineering"
-  org: "Centre for Development of Advanced Computing (C-DAC, Pune)"
-  since: "September 2024"
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
 
-what_i_do:
-  - "Architect CI/CD pipelines that turned 40-min deploys into 8-min deploys"
-  - "Manage 12+ production Linux VMs serving 3+ engineering teams"
-  - "Build LXC container isolation that cut resource usage by 60%"
-  - "Instrument Prometheus + Grafana + ELK for <30 min MTTD"
-  - "Embed security scanning (SAST, DAST, Trivy) as pipeline gates"
+### &nbsp; About Me
 
-what_i_build_with:
-  infra: ["Kubernetes", "Docker", "Terraform", "Ansible", "LXC"]
-  cloud: ["AWS (EKS, VPC, IAM)", "Azure (AKS, VNet, RBAC)"]
-  cicd: ["GitLab CI/CD", "Jenkins", "GitHub Actions", "ArgoCD"]
-  observe: ["Prometheus", "Grafana", "ELK Stack"]
-  code: ["Go", "Python", "Bash", "Java"]
-
-currently:
-  building: "Go CLI to provision multi-cloud infra in 5 min"
-  learning: "AWS Solutions Architect + Service Mesh"
-  reading: "SRE Book by Google"
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
-
-## vedant@infra:~$ ls -la ~/toolkit/
-
-<div align="center">
-
-<table>
-<tr><td align="center" width="25%"><b>☁️ Cloud & Infra</b></td><td align="center" width="25%"><b>🔄 CI/CD & Security</b></td><td align="center" width="25%"><b>📊 Observability</b></td><td align="center" width="25%"><b>💻 Languages & Data</b></td></tr>
-<tr>
-<td align="center" valign="top">
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=9be8a9)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=9be8a9)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=9be8a9)
-![Ansible](https://img.shields.io/badge/Ansible-0d1117?style=flat-square&logo=ansible&logoColor=9be8a9)
-![Kubernetes](https://img.shields.io/badge/K8s-0d1117?style=flat-square&logo=kubernetes&logoColor=9be8a9)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=9be8a9)
-![Helm](https://img.shields.io/badge/Helm-0d1117?style=flat-square&logo=helm&logoColor=9be8a9)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=9be8a9)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=9be8a9)
-
-</td>
-<td align="center" valign="top">
-
-![GitLab](https://img.shields.io/badge/GitLab_CI-0d1117?style=flat-square&logo=gitlab&logoColor=9be8a9)
-![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=9be8a9)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=9be8a9)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-0d1117?style=flat-square&logo=argo&logoColor=9be8a9)
-![SonarQube](https://img.shields.io/badge/SonarQube-0d1117?style=flat-square&logo=sonarqube&logoColor=9be8a9)
-![Trivy](https://img.shields.io/badge/Trivy-0d1117?style=flat-square&logo=aquasecurity&logoColor=9be8a9)
-![Vault](https://img.shields.io/badge/Vault-0d1117?style=flat-square&logo=vault&logoColor=9be8a9)
-![Harbor](https://img.shields.io/badge/Harbor-0d1117?style=flat-square&logo=harbor&logoColor=9be8a9)
-
-</td>
-<td align="center" valign="top">
-
-![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=9be8a9)
-![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=9be8a9)
-![Elastic](https://img.shields.io/badge/ELK_Stack-0d1117?style=flat-square&logo=elasticstack&logoColor=9be8a9)
-![Kibana](https://img.shields.io/badge/Kibana-0d1117?style=flat-square&logo=kibana&logoColor=9be8a9)
-
-</td>
-<td align="center" valign="top">
-
-![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=9be8a9)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9be8a9)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=9be8a9)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=9be8a9)
-![PostgreSQL](https://img.shields.io/badge/Postgres-0d1117?style=flat-square&logo=postgresql&logoColor=9be8a9)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=9be8a9)
-![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=9be8a9)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=9be8a9)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
-
-## vedant@infra:~$ tree ~/projects/ --highlight
-
-<div align="center">
-
-```
-~/projects/
-├── 🚀 DevPlatform-CLI ─── Go CLI · Multi-cloud IaC · 2 days → 5 min provisioning
-├── 🛡️ InfraGuard ───────── AIOps · Predict failures 60 min early · Auto Jira tickets
-├── ☁️ CloudForge ───────── 5 Microservices · ArgoCD GitOps · Azure AKS + Kafka
-└── 📡 VMLedger ─────────── Agentless VM monitoring · 60s health checks · Celery automation
-```
-
-</div>
+- **Role:** Project Engineer — DevOps & Platform Engineering
+- **Org:** C-DAC, Pune (Centre for Development of Advanced Computing)
+- **Focus:** CI/CD Pipelines · Kubernetes · Cloud Infrastructure · Observability
 
 <br/>
 
-<div align="center">
+- :telescope: Building **[DevPlatform CLI](https://github.com/vedantchimote/DevPlatform-CLI)** — a Go CLI for multi-cloud IaC
+- :seedling: Learning **AWS Solutions Architect** & **Advanced Kubernetes**
+- :gear: Managing **12+ production VMs** for **3+ engineering teams**
+- :zap: Reduced deployment time by **80%** with GitLab CI/CD pipelines
+- :bar_chart: Achieving **<30 min MTTD** with Prometheus + Grafana + ELK
+- :shield: Embedding **DevSecOps** (SonarQube, Trivy, OWASP ZAP) into CI/CD
 
-<a href="https://github.com/vedantchimote/DevPlatform-CLI">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantchimote&repo=DevPlatform-CLI&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e&border_radius=8" />
-</a>
-&nbsp;
-<a href="https://github.com/vedantchimote/InfraGuard">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantchimote&repo=InfraGuard&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e&border_radius=8" />
-</a>
+<br clear="both"/>
 
-<a href="https://github.com/vedantchimote/Cloudforge">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantchimote&repo=Cloudforge&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e&border_radius=8" />
-</a>
-&nbsp;
-<a href="https://github.com/vedantchimote/VMLedger">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantchimote&repo=VMLedger&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e&border_radius=8" />
-</a>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-<details>
-<summary><b>📋 vedant@infra:~$ cat project_details.json</b></summary>
-<br/>
-
-```json
-[
-  {
-    "name": "DevPlatform CLI",
-    "type": "Internal Developer Platform",
-    "stack": ["Go", "Terraform", "Helm", "AWS SDK", "Azure SDK", "GitHub Actions"],
-    "impact": "Environment provisioning: 2 days → 5 minutes (99% faster)",
-    "features": ["Multi-cloud abstraction", "--dry-run with cost estimation", "Automated rollback"]
-  },
-  {
-    "name": "InfraGuard",
-    "type": "AIOps & Anomaly Detection",
-    "stack": ["Python", "scikit-learn", "Facebook Prophet", "Kubernetes", "Grafana", "Jira"],
-    "impact": "Predicts infrastructure failures 60 minutes before occurrence",
-    "features": ["Isolation Forest ML", "Severity classification", "Auto Slack + Jira alerts"]
-  },
-  {
-    "name": "CloudForge",
-    "type": "Cloud-Native Microservices Platform",
-    "stack": ["Java", "Spring Boot", "Kafka", "ArgoCD", "Helm", "Terraform", "Azure AKS"],
-    "impact": "Zero-downtime deployments with HPA + PodDisruptionBudgets",
-    "features": ["5 microservices", "GitOps delivery", "Vault secrets management"]
-  },
-  {
-    "name": "VMLedger",
-    "type": "Agentless Infrastructure Monitoring",
-    "stack": ["Python", "FastAPI", "Celery", "Redis", "PostgreSQL", "Next.js"],
-    "impact": "Fleet-wide health checks every 60 seconds without installing agents",
-    "features": ["SSH-based metrics", "AES-256 encryption", "Slack/Discord alerting"]
-  }
-]
-```
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
-
-## vedant@infra:~$ watch -n 1 'kubectl get pipelines'
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
-<a href="https://github.com/vedantchimote/DevPlatform-CLI/actions"><img src="https://img.shields.io/github/actions/workflow/status/vedantchimote/DevPlatform-CLI/test.yml?style=flat-square&logo=githubactions&logoColor=9be8a9&label=DevPlatform-CLI%20Tests&labelColor=0d1117&color=1a472a"/></a>
-<a href="https://github.com/vedantchimote/InfraGuard/actions"><img src="https://img.shields.io/github/actions/workflow/status/vedantchimote/InfraGuard/ci.yml?style=flat-square&logo=githubactions&logoColor=9be8a9&label=InfraGuard%20CI&labelColor=0d1117&color=1a472a"/></a>
-<a href="https://github.com/vedantchimote/Cloudforge/actions"><img src="https://img.shields.io/github/actions/workflow/status/vedantchimote/Cloudforge/backend.yml?style=flat-square&logo=githubactions&logoColor=9be8a9&label=Cloudforge%20Backend&labelColor=0d1117&color=1a472a"/></a>
-<a href="https://github.com/vedantchimote/VMLedger/actions"><img src="https://img.shields.io/github/actions/workflow/status/vedantchimote/VMLedger/testsprite.yml?style=flat-square&logo=githubactions&logoColor=9be8a9&label=VMLedger%20Build&labelColor=0d1117&color=1a472a"/></a>
-
-<br/>
-
-<a href="https://github.com/vedantchimote/DevPlatform-CLI/releases"><img src="https://img.shields.io/github/v/release/vedantchimote/DevPlatform-CLI?style=flat-square&logo=github&logoColor=9be8a9&label=Latest%20Release&labelColor=0d1117&color=1a472a"/></a>
-<a href="https://github.com/vedantchimote/InfraGuard/issues"><img src="https://img.shields.io/github/issues/vedantchimote/InfraGuard?style=flat-square&logo=github&logoColor=9be8a9&label=InfraGuard%20Issues&labelColor=0d1117&color=1a472a"/></a>
-<a href="https://github.com/vedantchimote/Cloudforge/commits/main"><img src="https://img.shields.io/github/last-commit/vedantchimote/Cloudforge?style=flat-square&logo=git&logoColor=9be8a9&label=Cloudforge%20Commits&labelColor=0d1117&color=1a472a"/></a>
-<a href="https://github.com/vedantchimote/VMLedger/pulls"><img src="https://img.shields.io/github/issues-pr/vedantchimote/VMLedger?style=flat-square&logo=github&logoColor=9be8a9&label=VMLedger%20PRs&labelColor=0d1117&color=1a472a"/></a>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
-
-## vedant@infra:~$ htop --metrics
-
-<div align="center">
-
+#### Cloud & Infrastructure
 <p>
-    <img width="47%" src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e&border_radius=8" />
-    <img width="49.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham&hide_border=true&background=0d1117&ring=9be8a9&fire=9be8a9&currStreakLabel=9be8a9&sideLabels=9be8a9&dates=8b949e&border_radius=8" />
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,linux,nginx&theme=dark&perline=8" />
+</p>
+
+#### CI/CD & DevSecOps
+<p>
+<img src="https://skillicons.dev/icons?i=gitlab,jenkins,githubactions,grafana,prometheus,elasticsearch&theme=dark&perline=6" />
+</p>
+
+#### Languages & Data
+<p>
+<img src="https://skillicons.dev/icons?i=go,python,java,bash,postgres,redis,kafka,mongodb&theme=dark&perline=8" />
+</p>
+
+#### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman&theme=dark&perline=5" />
 </p>
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h3 align="center">Featured Projects</h3>
+
+<div align="center">
+
+<a href="https://github.com/vedantchimote/DevPlatform-CLI">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantchimote&repo=DevPlatform-CLI&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/vedantchimote/InfraGuard">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantchimote&repo=InfraGuard&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/vedantchimote/Cloudforge">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantchimote&repo=Cloudforge&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/vedantchimote/VMLedger">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantchimote&repo=VMLedger&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Project | What It Does | Key Tech | Impact |
+|:--------|:------------|:---------|:-------|
+| **[DevPlatform CLI](https://github.com/vedantchimote/DevPlatform-CLI)** | Multi-cloud IaC provisioning via Go CLI | `Go` `Terraform` `Helm` `AWS` `Azure` | **2 days → 5 min** (99% faster) |
+| **[InfraGuard](https://github.com/vedantchimote/InfraGuard)** | AI-powered anomaly detection for infra | `Python` `scikit-learn` `Prophet` `K8s` | Predicts failures **60 min ahead** |
+| **[CloudForge](https://github.com/vedantchimote/Cloudforge)** | Cloud-native 5-microservice platform | `Java` `Kafka` `ArgoCD` `Azure AKS` | **Zero-downtime** GitOps delivery |
+| **[VMLedger](https://github.com/vedantchimote/VMLedger)** | Agentless VM fleet monitoring | `Python` `FastAPI` `Redis` `Celery` | **60s** fleet-wide health checks |
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h3 align="center">GitHub Stats</h3>
+
+<div align="center">
+
+<p>
+  <img width="47%" src="https://readmestats.999857.xyz/api?username=vedantchimote&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&icon_color=9be8a9&text_color=8b949e" />
+  &nbsp;&nbsp;
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantchimote&theme=gotham&hide_border=true&background=0d1117&ring=9be8a9&fire=9be8a9&currStreakLabel=9be8a9&sideLabels=9be8a9&dates=8b949e" />
+</p>
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vedantchimote&layout=compact&langs_count=20&theme=gotham&hide_border=true&bg_color=0d1117&title_color=9be8a9&text_color=8b949e" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 3D CONTRIBUTION GRAPH                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ![3D Profile](profile-3d-contrib/profile-night-green.svg)
 
-[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantchimote&bg_color=0d1117&color=9be8a9&line=9be8a9&point=9be8a9&area=true&hide_border=true&area_color=1a472a)](https://github.com/vedantchimote/github-readme-activity-graph)
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ACTIVITY GRAPH                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantchimote&bg_color=0d1117&color=9be8a9&line=9be8a9&point=9be8a9&area=true&hide_border=true&area_color=1a472a)
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   SNAKE ANIMATION                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ![snake gif](https://github.com/vedantchimote/vedantchimote/blob/output/github-contribution-grid-snake.svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               WAKATIME DETAILED (COLLAPSED)                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>⏱️ vedant@infra:~$ wakatime --detailed</b></summary>
+<summary align="center"><b>:clock1: Wakatime Detailed Stats</b></summary>
 <br/>
 <div align="center">
-<img width="100%" src="https://wakatime.com/share/@vedantchimote/991531fd-43d2-4fdb-9f2b-f0576e2e91d1.svg" />
-<img width="100%" src="https://wakatime.com/share/@vedantchimote/2acac088-ba26-4f4e-bf37-fd099672ebcd.svg" />
+<img width="90%" src="https://wakatime.com/share/@vedantchimote/991531fd-43d2-4fdb-9f2b-f0576e2e91d1.svg" />
+<br/><br/>
+<img width="90%" src="https://wakatime.com/share/@vedantchimote/2acac088-ba26-4f4e-bf37-fd099672ebcd.svg" />
 </div>
 </details>
 
 <br/>
 
-<div align="center">
-
-```
-+======================================================+
-|                                                      |
-|   "Automate the toil. Observe the system.            |
-|    Ship with confidence. Sleep well at night."        |
-|                                                      |
-|                          — vedant@infra:~$            |
-|                                                      |
-+======================================================+
-```
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9be8a9,50:1a472a,100:0d1117&height=120&section=footer"/>
