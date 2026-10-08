@@ -19,7 +19,7 @@
 <!-- ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê -->
 
 <a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzliZThhOSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="/></a>&nbsp;&nbsp;
-<a href="https://vedantchimote.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAgCAYAAAD5VeO1AAACGElEQVR4nO2Wz0uUQRjHP6u2ubkYIcLSwUt1Mk8iHq1DIKiI/4GnJA/mqUOHvBhBedCDpu0hugRLZ0VREG8bRaeK8hgGexIUYyXRjYHvwDDNvu++rnvze3nfnZn3M8+PeZ7ZVL5UwNMr4CHwHWglmcpAN/AceNkSWNAMzADzCcGucZ3mxYUba+8AI8AhkAPagbMY2KkM+g280O8mH/4Y2AHeACcaK8WADSTrfG/gf4GMD98HJvU+JNdOArAUUJG1JsY2aQ/8nV24WWzVD9wCjq2LUllu2/VHDvxqFNyN7TOSqxIFb6sBsAL0yOI0cACMai4VBS/WAJ9IarlJ4oAm32v8VJ5sAUucUwa+GDE/BtxQxcXJhqVivQhVqK9ZnYS4JH/Q86flpvKlwn+xOqfKKp5j9aRP7hmuVxk9bbPri4If1LtbtZjPAd9UhbNqYokVsrwI7AFvgXFtdGGWZ1WBRr+crme1AfwArimJ91W1NcHvAsPANNABPPXmcyqytNprLmnMB5T9m4K4uq1x20X/ALsqnOvuZiH4a8W9T5fHgq68rFMsX9Qe7C1ke3uP8hSErwFfgXfO2DrwxOkx4y4gSj78IzDljQ0C20puF7AMfJYn/sXRCzyyH/rlb661KwEjrPvI/XKgf1fUg9qqWR4C+1dgxin1SBn4KnBPx6paYZ0543F/NWx/2WzRmW6ImhoFNrqEB9XQsPwDDhNqmjt2hIwAAAAASUVORK5CYII=&logoSize=auto&logoWidth=26"/></a>&nbsp;&nbsp;
+<a href="https://vedantchimote.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAgCAYAAAD5VeO1AAACGElEQVR4nO2Wz0uUQRjHP6u2ubkYIcLSwUt1Mk8iHq1DIKiI/4GnJA/mqUOHvBhBedCDpu0hugRLZ0VREG8bRaeK8hgGexIUYyXRjYHvwDDNvu++rnvze3nfnZn3M8+PeZ7ZVL5UwNMr4CHwHWglmcpAN/AceNkSWNAMzADzCcGucZ3mxYUba+8AI8AhkAPagbMY2KkM+g280O8mH/4Y2AHeACcaK8WADSTrfG/gf4GMD98HJvU+JNdOArAUUJG1JsY2aQ/8nV24WWzVD9wCjq2LUllu2/VHDvxqFNyN7TOSqxIFb6sBsAL0yOI0cACMai4VBS/WAJ9IarlJ4oAm32v8VJ5sAUucUwa+GDE/BtxQxcXJhqVivQhVqK9ZnYS4JH/Q86flpvKlwn+xOqfKKp5j9aRP7hmuVxk9bbPri4If1LtbtZjPAd9UhbNqYokVsrwI7AFvgXFtdGGWZ1WBRr+crme1AfwArimJ91W1NcHvAsPANNABPPXmcyqytNprLmnMB5T9m4K4uq1x20X/ALsqnOvuZiH4a8W9T5fHgq68rFMsX9Qe7C1ke3uP8hSErwFfgXfO2DrwxOkx4y4gSj78IzDljQ0C20puF7AMfJYn/sXRCzyyH/rlb661KwEjrPvI/XKgf1fUg9qqWR4C+1dgxin1SBn4KnBPx6paYZ0543F/NWx/2WzRmW6ImhoFNrqEB9XQsPwDDhNqmjt2hIwAAAAASUVORK5CYII=&logoSize=auto&logoWidth=32"/></a>&nbsp;&nbsp;
 <a href="mailto:vedantchimote3301@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=9be8a9"/></a>
 
 <br/><br/>
@@ -39,16 +39,20 @@
 
 ### &nbsp; About Me
 
-**Platform Engineer & Cloud-Native Advocate** specializing in building resilient, scalable infrastructure and developer platforms.
+<p align="left">
+  <i><b>Platform Engineer & Cloud-Native Advocate</b> specializing in building resilient, scalable infrastructure and developer platforms.</i>
+</p>
 
 <br/>
 
-- üî≠ Currently building **[DevPlatform CLI](https://github.com/vedantchimote/DevPlatform-CLI)** ‚Äî a Go CLI for multi-cloud IaC
-- üå± Deep-diving into **Advanced Kubernetes Orchestration** & **AWS Architecture**
+- Ì†ΩÌ¥≠ Currently building **[DevPlatform CLI](https://github.com/vedantchimote/DevPlatform-CLI)** ‚Äî a Go CLI for multi-cloud IaC
+- Ì†ºÌº± Deep-diving into **Advanced Kubernetes Orchestration**, **eBPF**, & **AWS Architecture**
 - ‚òÅÔ∏è Architecting multi-cloud infrastructure on **AWS & Azure** using **Terraform** & **Helm**
 - ‚ö° Automating zero-downtime microservice deployments with **GitOps (ArgoCD)**
-- ü§ñ Engineering predictive **AIOps platforms** to detect infrastructure anomalies proactively
-- üõ°Ô∏è Championing **DevSecOps** by embedding security scanning directly into CI/CD pipelines
+- Ì†ΩÌ≥ä Designing centralized observability stacks (**Prometheus, Grafana, OpenTelemetry**) for deep system visibility
+- Ì†æÌ¥ñ Engineering predictive **AIOps platforms** to proactively detect infrastructure anomalies
+- Ì†ΩÌª°Ô∏è Championing **DevSecOps** by embedding security scanning (Trivy, SonarQube) directly into CI/CD
+- Ì†ΩÌ∞ç Automating toil, infrastructure provisioning, and FinOps cost-optimization using **Python** & **Bash**
 
 <br clear="both"/>
 
