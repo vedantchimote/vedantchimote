@@ -18,10 +18,9 @@
 <!--                   CONTACT / SOCIAL LINKS                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://vedantchimote.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=9be8a9"/></a>&nbsp;
-<a href="mailto:vedantchimote3301@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=9be8a9"/></a>&nbsp;
-<a href="https://github.com/vedantchimote"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=9be8a9"/></a>
+<a href="https://in.linkedin.com/in/vedant-chimote-27aba1161"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9be8a9"/></a>&nbsp;&nbsp;
+<a href="https://vedantchimote.in"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=9be8a9"/></a>&nbsp;&nbsp;
+<a href="mailto:vedantchimote3301@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=9be8a9"/></a>
 
 <br/><br/>
 
@@ -102,12 +101,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/vedantchimote/DevPlatform-CLI">🚀 DevPlatform CLI</a></h3>
+<h3 align="center"><a href="https://github.com/vedantchimote/DevPlatform-CLI">DevPlatform CLI</a></h3>
 <p align="center"><b>Self-Service Internal Developer Platform</b></p>
-<p align="center">
-<a href="https://github.com/vedantchimote/DevPlatform-CLI"><img src="https://img.shields.io/github/stars/vedantchimote/DevPlatform-CLI?style=flat-square&color=9be8a9&labelColor=0d1117"/></a>
-<a href="https://github.com/vedantchimote/DevPlatform-CLI"><img src="https://img.shields.io/github/last-commit/vedantchimote/DevPlatform-CLI?style=flat-square&color=9be8a9&labelColor=0d1117"/></a>
-</p>
+
 <p align="center">Go CLI provisioning multi-cloud infra (AWS/Azure) via <b>Terraform</b> + <b>Helm</b>. Environment setup: <b>2 days → 5 min</b> (99% faster).</p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=go,terraform,aws,azure&theme=dark&perline=4" height="36"/>
@@ -116,12 +112,9 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/vedantchimote/InfraGuard">🛡️ InfraGuard</a></h3>
+<h3 align="center"><a href="https://github.com/vedantchimote/InfraGuard">InfraGuard</a></h3>
 <p align="center"><b>AI-Powered Infrastructure Anomaly Detection</b></p>
-<p align="center">
-<a href="https://github.com/vedantchimote/InfraGuard"><img src="https://img.shields.io/github/stars/vedantchimote/InfraGuard?style=flat-square&color=9be8a9&labelColor=0d1117"/></a>
-<a href="https://github.com/vedantchimote/InfraGuard"><img src="https://img.shields.io/github/last-commit/vedantchimote/InfraGuard?style=flat-square&color=9be8a9&labelColor=0d1117"/></a>
-</p>
+
 <p align="center">Predicts infrastructure failures <b>60 min in advance</b> using <b>Isolation Forest</b> + <b>Facebook Prophet</b>. Auto-creates <b>Jira</b> tickets with severity mapping.</p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,kubernetes,grafana&theme=dark&perline=3" height="36"/>
@@ -132,12 +125,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/vedantchimote/Cloudforge">☁️ CloudForge</a></h3>
+<h3 align="center"><a href="https://github.com/vedantchimote/Cloudforge">CloudForge</a></h3>
 <p align="center"><b>Cloud-Native 5-Microservice E-Commerce Platform</b></p>
-<p align="center">
-<a href="https://github.com/vedantchimote/Cloudforge"><img src="https://img.shields.io/github/stars/vedantchimote/Cloudforge?style=flat-square&color=9be8a9&labelColor=0d1117"/></a>
-<a href="https://github.com/vedantchimote/Cloudforge"><img src="https://img.shields.io/github/last-commit/vedantchimote/Cloudforge?style=flat-square&color=9be8a9&labelColor=0d1117"/></a>
-</p>
+
 <p align="center"><b>5 Spring Boot</b> microservices with <b>Kafka</b> event streaming, <b>ArgoCD</b> GitOps delivery on <b>Azure AKS</b>. Zero-downtime deployments with HPA + PDBs.</p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,kafka,azure,kubernetes&theme=dark&perline=4" height="36"/>
@@ -146,12 +136,9 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/vedantchimote/VMLedger">📡 VMLedger</a></h3>
+<h3 align="center"><a href="https://github.com/vedantchimote/VMLedger">VMLedger</a></h3>
 <p align="center"><b>Agentless CMDB & VM Observability Platform</b></p>
-<p align="center">
-<a href="https://github.com/vedantchimote/VMLedger"><img src="https://img.shields.io/github/stars/vedantchimote/VMLedger?style=flat-square&color=9be8a9&labelColor=0d1117"/></a>
-<a href="https://github.com/vedantchimote/VMLedger"><img src="https://img.shields.io/github/last-commit/vedantchimote/VMLedger?style=flat-square&color=9be8a9&labelColor=0d1117"/></a>
-</p>
+
 <p align="center"><b>Python/FastAPI</b> platform monitoring VMs via SSH. <b>60s</b> fleet-wide health checks with <b>Redis</b> caching, <b>Celery</b> tasks, and <b>Slack/Discord</b> alerting.</p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,redis,postgres,nextjs&theme=dark&perline=4" height="36"/>
